@@ -1,0 +1,14 @@
+2017-12-01 17:44:45.0115||Chatbot102.MessagesController|INFO|{
+  "id": "fi2c8kadk29",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "2d7b3djmene7e",
+  "text": "test"
+} 

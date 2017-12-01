@@ -4,18 +4,23 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
+using NLog;
+using Chatbot102.Services;
 
 namespace Chatbot102
 {
     [BotAuthentication]
     public class MessagesController : ApiController
     {
+        private static Logger logger = LogManager.GetCurrentClassLogger();
         /// <summary>
         /// POST: api/Messages
         /// Receive a message from a user and reply to it
         /// </summary>
         public async Task<HttpResponseMessage> Post([FromBody]Activity activity)
         {
+            logger.Log(LogLevel.Info, LogService.FormatActivity(activity));
+
             if (activity.Type == ActivityTypes.Message)
             {
                 await Conversation.SendAsync(activity, () => new Dialogs.RootDialog());

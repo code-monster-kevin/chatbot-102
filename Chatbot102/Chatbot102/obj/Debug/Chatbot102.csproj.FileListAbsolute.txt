@@ -51,3 +51,8 @@ C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102\obj\Debug\Chatbot102.csprojR
 C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102\obj\Debug\Chatbot102.csproj.CoreCompileInputs.cache
 C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102\obj\Debug\Bot Application.dll
 C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102\obj\Debug\Bot Application.pdb
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102\bin\nlog.config
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102\bin\NLog.dll
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102\bin\NLog.Web.dll
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102\bin\NLog.xml
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102\bin\NLog.Web.xml
