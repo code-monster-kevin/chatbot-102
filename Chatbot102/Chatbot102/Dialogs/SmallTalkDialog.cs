@@ -12,16 +12,22 @@ namespace Chatbot102.Dialogs
         public Task StartAsync(IDialogContext context)
         {
             context.Wait(MessageReceivedAsync);
-
             return Task.CompletedTask;
         }
 
-        private async Task MessageReceivedAsync(IDialogContext context, IAwaitable<object> result)
+        public virtual async Task MessageReceivedAsync(IDialogContext context, IAwaitable<IMessageActivity> result)
         {
-            var activity = await result as Activity;
+            var message = await result;
 
-            await context.PostAsync(SmallTalkResponse(activity.Text));
-            context.Wait(MessageReceivedAsync);
+            if (IntentDetectionService.CheckIntent(message.Text) == IntentDetectionService.IntentState.ROCKPAPERSCISSORS)
+            {
+                context.Call<object>(new RockPaperScissorsDialog(), ResumeAfterRockPaperScissorsDialog);
+            }
+            else
+            {
+                await context.PostAsync(SmallTalkResponse(message.Text));
+                context.Wait(MessageReceivedAsync);
+            }
         }
 
         private string SmallTalkResponse(string user_text)
@@ -48,6 +54,13 @@ namespace Chatbot102.Dialogs
             }
 
             return bot_reply;
+        }
+
+        public virtual async Task ResumeAfterRockPaperScissorsDialog(IDialogContext context, IAwaitable<object> result)
+        {
+            string reply = "To play again, just type Rock, Paper, Scissors or Game";
+            await context.PostAsync(reply);
+            context.Done(this);
         }
     }
 }
