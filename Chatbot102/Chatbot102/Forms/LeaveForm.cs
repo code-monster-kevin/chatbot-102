@@ -2,6 +2,8 @@
 using Microsoft.Bot.Builder.FormFlow;
 using System;
 using System.Threading.Tasks;
+using Chatbot102.Data;
+using Chatbot102.Data.Entity;
 
 namespace Chatbot102.Forms
 {
@@ -51,6 +53,21 @@ namespace Chatbot102.Forms
 
         async Task SaveLeaveFormAsync(IDialogContext context, LeaveForm leave_form)
         {
+            using (var db = new ChatbotDataContext())
+            {
+                db.LeaveApplications.Add(new LeaveApplication
+                {
+                    ID = Guid.NewGuid(),
+                    Name = leave_form.Name,
+                    Email = leave_form.Email,
+                    LeaveType = Enum.GetName(typeof(LeaveType), leave_form.LeaveType),
+                    LeaveFrom = leave_form.LeaveFrom,
+                    LeaveTo = leave_form.LeaveTo,
+                    Rating = (leave_form.Rating == null) ? 0 : (int)leave_form.Rating
+                });
+
+                await db.SaveChangesAsync();
+            }
             string reply = "You leave is being processed.";
             await context.PostAsync(reply);
         }

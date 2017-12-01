@@ -1,0 +1,13 @@
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\bin\Debug\Chatbot102.Data.dll.config
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\bin\Debug\Chatbot102.Data.dll
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\bin\Debug\Chatbot102.Data.pdb
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\bin\Debug\EntityFramework.dll
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\bin\Debug\EntityFramework.xml
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\obj\Debug\Chatbot102.Data.csproj.CoreCompileInputs.cache
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\obj\Debug\Chatbot102.Data.dll
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\obj\Debug\Chatbot102.Data.pdb
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\obj\Debug\Chatbot102.Data.Migrations.initdb1.resources
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\obj\Debug\Chatbot102.Data.csproj.GenerateResource.Cache
+C:\VS2017\Projects\ChatBot102\Chatbot102\Chatbot102.Data\obj\Debug\Chatbot102.Data.csprojResolveAssemblyReference.cache
