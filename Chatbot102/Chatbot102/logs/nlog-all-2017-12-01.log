@@ -558,3 +558,623 @@
   "conversationId": "754j5gh1aaek",
   "text": "yes"
 } 
+2017-12-01 20:39:46.1061||Chatbot102.MessagesController|INFO|{
+  "id": "38105i2h34h6",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "cij980ic271b"
+} 
+2017-12-01 20:39:46.1061||Chatbot102.MessagesController|INFO|{
+  "id": "a69042j4jf9a",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "cij980ic271b",
+  "text": "hi"
+} 
+2017-12-01 20:39:46.1061||Chatbot102.MessagesController|INFO|{
+  "id": "ek8nkhij302",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "cij980ic271b"
+} 
+2017-12-01 20:39:49.9008||Chatbot102.MessagesController|INFO|{
+  "id": "m6n0i241bl83",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "cij980ic271b",
+  "text": "j"
+} 
+2017-12-01 20:39:51.2118||Chatbot102.MessagesController|INFO|{
+  "id": "j82jmildklh",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "cij980ic271b",
+  "text": "k"
+} 
+2017-12-01 20:39:54.1909||Chatbot102.MessagesController|INFO|{
+  "id": "i6c2nl2h20ll",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "cij980ic271b",
+  "text": "Annual Leave"
+} 
+2017-12-01 20:39:58.9584||Chatbot102.MessagesController|INFO|{
+  "id": "jeanjc2i51gj",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "cij980ic271b",
+  "text": "today"
+} 
+2017-12-01 20:40:03.9282||Chatbot102.MessagesController|INFO|{
+  "id": "d3i67il0jml5",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "cij980ic271b",
+  "text": "tomorrow"
+} 
+2017-12-01 20:41:13.6441||Chatbot102.MessagesController|INFO|{
+  "id": "i7bk525ndjc",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "cij980ic271b",
+  "text": "hi"
+} 
+2017-12-01 20:41:18.8558||Chatbot102.MessagesController|INFO|{
+  "id": "70ablbb8f682",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "cij980ic271b",
+  "text": "yes"
+} 
+2017-12-01 20:41:22.4254||Chatbot102.MessagesController|INFO|{
+  "id": "7k30c9m9lb8b",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme"
+} 
+2017-12-01 20:41:22.4254||Chatbot102.MessagesController|INFO|{
+  "id": "fcjee18b999j",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme"
+} 
+2017-12-01 20:41:25.1294||Chatbot102.MessagesController|INFO|{
+  "id": "2eg5an5l7bgj",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme",
+  "text": "hi"
+} 
+2017-12-01 20:41:27.5722||Chatbot102.MessagesController|INFO|{
+  "id": "bb6455meji93",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme",
+  "text": "j"
+} 
+2017-12-01 20:41:29.5616||Chatbot102.MessagesController|INFO|{
+  "id": "h78d46h2d3eg",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme",
+  "text": "k"
+} 
+2017-12-01 20:41:32.5160||Chatbot102.MessagesController|INFO|{
+  "id": "400n8c4mk4l1",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme",
+  "text": "help"
+} 
+2017-12-01 20:41:42.8381||Chatbot102.MessagesController|INFO|{
+  "id": "a2fah0jai7l4",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme",
+  "text": "navigation"
+} 
+2017-12-01 20:41:51.2918||Chatbot102.MessagesController|INFO|{
+  "id": "k63cmjidh23j",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme",
+  "text": "help navigation"
+} 
+2017-12-01 20:42:14.8704||Chatbot102.MessagesController|INFO|{
+  "id": "0696ih5m50n6m",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme",
+  "text": "Training Leave"
+} 
+2017-12-01 20:42:29.9534||Chatbot102.MessagesController|INFO|{
+  "id": "j6i32c6m97id",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme",
+  "text": "20 jan 2018"
+} 
+2017-12-01 20:42:34.9325||Chatbot102.MessagesController|INFO|{
+  "id": "mdbn2ij445g5",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme",
+  "text": "22 jan 2018"
+} 
+2017-12-01 20:42:38.0833||Chatbot102.MessagesController|INFO|{
+  "id": "49gi73fe3j09",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kib60m6gnme",
+  "text": "yes"
+} 
+2017-12-01 20:42:52.8912||Chatbot102.MessagesController|INFO|{
+  "id": "618g0ggbaeim",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7"
+} 
+2017-12-01 20:42:52.8912||Chatbot102.MessagesController|INFO|{
+  "id": "k2mb34hg04b2",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7"
+} 
+2017-12-01 20:55:11.0853||Chatbot102.MessagesController|INFO|{
+  "id": "2h55hm47da5g",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "hi"
+} 
+2017-12-01 20:55:14.4498||Chatbot102.MessagesController|INFO|{
+  "id": "9mb8d6jkdml6",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "j"
+} 
+2017-12-01 20:55:16.9135||Chatbot102.MessagesController|INFO|{
+  "id": "b4nc770ife93",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "k"
+} 
+2017-12-01 20:55:28.1325||Chatbot102.MessagesController|INFO|{
+  "id": "m8hd8h3c153",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "k@email"
+} 
+2017-12-01 20:55:33.7231||Chatbot102.MessagesController|INFO|{
+  "id": "3n645le0cj5f",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "k@email.com"
+} 
+2017-12-01 20:55:39.9671||Chatbot102.MessagesController|INFO|{
+  "id": "b4hj5ac43kdg",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "back"
+} 
+2017-12-01 20:55:43.5717||Chatbot102.MessagesController|INFO|{
+  "id": "echnb95lek72",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "next"
+} 
+2017-12-01 20:55:51.4239||Chatbot102.MessagesController|INFO|{
+  "id": "a5080b7fg1k9",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "next"
+} 
+2017-12-01 20:55:56.7817||Chatbot102.MessagesController|INFO|{
+  "id": "98hd1i3h5hcf",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "k@email.com"
+} 
+2017-12-01 20:56:00.6801||Chatbot102.MessagesController|INFO|{
+  "id": "7053l35d89lj",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "Annual Leave"
+} 
+2017-12-01 20:56:06.3302||Chatbot102.MessagesController|INFO|{
+  "id": "jlfif52em6f8",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "next"
+} 
+2017-12-01 20:56:12.0183||Chatbot102.MessagesController|INFO|{
+  "id": "ade4k7fncl92",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "today"
+} 
+2017-12-01 20:56:16.6197||Chatbot102.MessagesController|INFO|{
+  "id": "nf85ak6nmc2h",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "next week"
+} 
+2017-12-01 20:56:21.1459||Chatbot102.MessagesController|INFO|{
+  "id": "21lm6m897mcg",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "next"
+} 
+2017-12-01 20:56:27.9906||Chatbot102.MessagesController|INFO|{
+  "id": "b11d50b3nm2c",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "help"
+} 
+2017-12-01 20:56:43.9541||Chatbot102.MessagesController|INFO|{
+  "id": "83j3icb2dlcn",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "1"
+} 
+2017-12-01 20:56:48.3140||Chatbot102.MessagesController|INFO|{
+  "id": "hl697e973a9",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "no"
+} 
+2017-12-01 20:57:00.2041||Chatbot102.MessagesController|INFO|{
+  "id": "fjmajkcf81kf",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "The leave ending date"
+} 
+2017-12-01 20:57:12.2367||Chatbot102.MessagesController|INFO|{
+  "id": "h594dlmfaalj",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "4/12/2017"
+} 
+2017-12-01 20:57:15.7213||Chatbot102.MessagesController|INFO|{
+  "id": "cnbc143nle3",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "1876lchkc77c7",
+  "text": "yes"
+} 
+2017-12-01 20:57:28.1726||Chatbot102.MessagesController|INFO|{
+  "id": "570290de5c5",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kel27i0fn2a"
+} 
+2017-12-01 20:57:28.1726||Chatbot102.MessagesController|INFO|{
+  "id": "625cl1m5j4fd",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "kel27i0fn2a"
+} 
