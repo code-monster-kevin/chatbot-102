@@ -438,3 +438,123 @@
   "conversationId": "n91e9n5cb1b3",
   "text": "SCISSORS"
 } 
+2017-12-01 20:28:49.3290||Chatbot102.MessagesController|INFO|{
+  "id": "ie3gkgn6ek7a",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "754j5gh1aaek"
+} 
+2017-12-01 20:28:49.3290||Chatbot102.MessagesController|INFO|{
+  "id": "3njf3ib1fl15",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "754j5gh1aaek"
+} 
+2017-12-01 20:28:49.3290||Chatbot102.MessagesController|INFO|{
+  "id": "2f15330cfcb6",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "754j5gh1aaek",
+  "text": "hi"
+} 
+2017-12-01 20:29:37.5324||Chatbot102.MessagesController|INFO|{
+  "id": "le5he1ibn3fh",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "754j5gh1aaek",
+  "text": "Kevin"
+} 
+2017-12-01 20:29:43.1506||Chatbot102.MessagesController|INFO|{
+  "id": "lghccn0hkm0a",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "754j5gh1aaek",
+  "text": "kevin@123"
+} 
+2017-12-01 20:29:47.3002||Chatbot102.MessagesController|INFO|{
+  "id": "kbam28df192",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "754j5gh1aaek",
+  "text": "Annual Leave"
+} 
+2017-12-01 20:29:57.7211||Chatbot102.MessagesController|INFO|{
+  "id": "5fan7j91jaeh",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "754j5gh1aaek",
+  "text": "20 Jan 2018"
+} 
+2017-12-01 20:30:03.4126||Chatbot102.MessagesController|INFO|{
+  "id": "3a2k4c8glm34",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "754j5gh1aaek",
+  "text": "22 Jan 2018"
+} 
+2017-12-01 20:30:09.1174||Chatbot102.MessagesController|INFO|{
+  "id": "e0h1j9bcmlg7",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:4293",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "754j5gh1aaek",
+  "text": "yes"
+} 

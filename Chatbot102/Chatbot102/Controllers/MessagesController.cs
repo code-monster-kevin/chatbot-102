@@ -6,6 +6,9 @@ using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
 using NLog;
 using Chatbot102.Services;
+using Microsoft.Bot.Builder.FormFlow;
+using Chatbot102.Forms;
+using System;
 
 namespace Chatbot102
 {
@@ -23,7 +26,15 @@ namespace Chatbot102
 
             if (activity.Type == ActivityTypes.Message)
             {
-                await Conversation.SendAsync(activity, () => new Dialogs.SmallTalkDialog());
+                try
+                {
+                    await Conversation.SendAsync(activity, BuildLeaveFormDialog);
+                }
+                catch (FormCanceledException ex)
+                {
+                    HandleCanceledForm(activity, ex);
+                }
+                //await Conversation.SendAsync(activity, () => new Dialogs.SmallTalkDialog());
             }
             else
             {
@@ -60,6 +71,20 @@ namespace Chatbot102
             }
 
             return null;
+        }
+
+        IDialog<LeaveForm> BuildLeaveFormDialog()
+        {
+            return FormDialog.FromForm(new LeaveForm().BuildForm);
+        }
+
+        void HandleCanceledForm(Activity activity, FormCanceledException ex)
+        {
+            string responseMessage = "You cancelled the form.";
+
+            var connector = new ConnectorClient(new Uri(activity.ServiceUrl));
+            var response = activity.CreateReply(responseMessage);
+            connector.Conversations.ReplyToActivity(response);
         }
     }
 }

@@ -137,6 +137,7 @@
     <Compile Include="Dialogs\RootDialog.cs" />
     <Compile Include="Dialogs\SmallTalkDialog.cs" />
     <Compile Include="Entity\ActivityLog.cs" />
+    <Compile Include="Forms\LeaveForm.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
