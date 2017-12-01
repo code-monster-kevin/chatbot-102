@@ -12,3 +12,187 @@
   "conversationId": "2d7b3djmene7e",
   "text": "test"
 } 
+2017-12-01 18:04:13.9742||Chatbot102.MessagesController|INFO|{
+  "id": "jhc800jen7",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "2d7b3djmene7e",
+  "text": "hello"
+} 
+2017-12-01 18:04:19.3322||Chatbot102.MessagesController|INFO|{
+  "id": "622c83fl487g",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "ec64969fflc4"
+} 
+2017-12-01 18:04:19.3322||Chatbot102.MessagesController|INFO|{
+  "id": "55l3fb4g3af5",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "ec64969fflc4"
+} 
+2017-12-01 18:04:24.4459||Chatbot102.MessagesController|INFO|{
+  "id": "4851idkd471i",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "ec64969fflc4",
+  "text": "hello"
+} 
+2017-12-01 18:04:31.0410||Chatbot102.MessagesController|INFO|{
+  "id": "0l8in8ieh4b85",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "ec64969fflc4",
+  "text": "how do you do?"
+} 
+2017-12-01 18:04:33.8851||Chatbot102.MessagesController|INFO|{
+  "id": "bdn2kmc2cmmh",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "ec64969fflc4",
+  "text": "bye"
+} 
+2017-12-01 18:04:37.8470||Chatbot102.MessagesController|INFO|{
+  "id": "nh4359ejcal9",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "ec64969fflc4",
+  "text": "smile"
+} 
+2017-12-01 18:04:39.8936||Chatbot102.MessagesController|INFO|{
+  "id": "b73acdm5f2j3",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "ec64969fflc4",
+  "text": "happy"
+} 
+2017-12-01 18:04:44.8014||Chatbot102.MessagesController|INFO|{
+  "id": "721n5c3lhhc6",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "e4nm3e09216"
+} 
+2017-12-01 18:04:44.8014||Chatbot102.MessagesController|INFO|{
+  "id": "g12nmcel97ba",
+  "type": "conversationUpdate",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "e4nm3e09216"
+} 
+2017-12-01 18:05:33.3460||Chatbot102.MessagesController|INFO|{
+  "id": "ge2c4g3c999b",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "e4nm3e09216",
+  "text": "hello"
+} 
+2017-12-01 18:05:48.3944||Chatbot102.MessagesController|INFO|{
+  "id": "a6knjm64ieal",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "e4nm3e09216",
+  "text": "who are you?"
+} 
+2017-12-01 18:05:59.0585||Chatbot102.MessagesController|INFO|{
+  "id": "9f6caa2l3j26",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "e4nm3e09216",
+  "text": "are you happy?"
+} 
+2017-12-01 18:06:01.9817||Chatbot102.MessagesController|INFO|{
+  "id": "8kbbj3fj95l",
+  "type": "message",
+  "textFormat": "plain",
+  "serviceUrl": "http://localhost:46322",
+  "channelId": "emulator",
+  "locale": "en-GB",
+  "fromChannelAccountId": "default-user",
+  "fromChannelAccountName": "User",
+  "recipientChannelAccountId": "6fai15e66akm2an99",
+  "recipientChannelAccountName": "Bot",
+  "conversationId": "e4nm3e09216",
+  "text": "bye"
+} 
